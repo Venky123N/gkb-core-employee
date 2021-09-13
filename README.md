@@ -20,7 +20,7 @@
 
 ## Build Setup
 
-- Clone Repository `https://github.com/arul29/Simple-CRUD-PHP-MySQLi.git`
+- Clone Repository `https://github.com/Venky123N/gkb-core-employee`
 
 - Import database `employee.sql` to phpMyAdmin
 
